@@ -2,7 +2,7 @@
 **Type:** Research Paper
 
 
-**Current Status:** Completed, waiting to submit in conference
+**Current Status:** Completed and submitted in conference
 
 **Team Details:**
 * Raghav Sarochaya (Roll No: 2210992122)
